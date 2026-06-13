@@ -2,9 +2,51 @@
 
 A beginner-friendly Linux command handbook with practical examples.
 
-## Commands
+## Navigation
+- ls
+- cd
+- pwd
+- clear
 
-- [ls](commands/ls.md)
+## File Management
+- cp
+- mv
+- rm
+- rmdir
+- zip
+
+## Text Processing
+- cat
+- head
+- tail
+- wc
+- sort
+- diff
+
+## System Monitoring
+- free
+- df
+- du
+- uptime
+- uname
+
+## User Management
+- sudo
+- useradd
+- userdel
+- groupadd
+
+## Permissions
+- chmod
+- chgrp
+- umask
+
+## Networking
+- ssh
+- which
+
+## Package Management
+- apt
 
 ## Project Goal
 
